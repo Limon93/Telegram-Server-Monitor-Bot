@@ -1,7 +1,6 @@
 Simple python telegram bot based on Telepot library to monitor server status via app. 
 No need to set port-forwardings, no custom signed certificates, no webhooks, no bullshit.
 
-
 You'll need to run bot.py:
 
 -Python interpreter, on debian: "sudo apt-get python".
